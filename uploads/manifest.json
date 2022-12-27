@@ -7,7 +7,7 @@
   "background_color": "#ffffff",
   "icons": [
     {
-      "src": "/icon.png",
+      "src": "https://github.com/andynel/gaac-andy/raw/main/public/apple-touch-icon.png",
       "sizes": "192x192",
       "type": "image/png"
     }
