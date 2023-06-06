@@ -1,13 +1,14 @@
 {
-  "name": "My PWA",
-  "short_name": "My PWA",
-  "start_url": "/index.html",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff",
+  "name": "COD Loadout",
+  "short_name": "COD",
+  "description": "COD Loadout generator",
+  "lang": "en",
+  "start_url": "https://andynel.github.io/",
+  "scope": "andynel.github.io",
+  "display": "fullscreen",
   "icons": [
     {
-      "src": "https://github.com/andynel/gaac-andy/raw/main/public/apple-touch-icon.png",
+      "src": "https://raw.githubusercontent.com/andynel/andynel.github.io/main/assets/apple-touch-icon.png",
       "sizes": "192x192",
       "type": "image/png"
     }
