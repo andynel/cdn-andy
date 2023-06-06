@@ -9,7 +9,7 @@
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/andynel/andynel.github.io/main/assets/apple-touch-icon.png",
-      "sizes": "192x192",
+      "sizes": "180x180",
       "type": "image/png"
     }
   ]
