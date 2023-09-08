@@ -3,7 +3,7 @@
   "short_name": "COD",
   "description": "COD Loadout generator",
   "lang": "en",
-  "start_url": "https://andynel.github.io/",
+  "start_url": "https://andynel.github.io/?token=4d35122c-8297-461b-8feb-c07994ff4309",
   "scope": "andynel.github.io",
   "display": "fullscreen",
   "icons": [
