@@ -18,6 +18,12 @@
       "src": "https://raw.githubusercontent.com/andynel/cdn-andy/main/uploads/Screenshot%202024-05-27%20at%2021.16.19.png",
       "sizes": "586x1266",
       "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/andynel/cdn-andy/main/uploads/Screenshot%202024-05-27%20at%2021.21.59.png",
+      "sizes": "1916x966",
+      "type": "image/png",
+      "form_factor": "wide"
     }
   ],
   "id": "andynel.github.io"
