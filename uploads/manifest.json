@@ -1,10 +1,10 @@
 {
   "name": "COD Loadout",
-  "short_name": "COD",
   "description": "COD Loadout generator",
-  "lang": "en",
+  "short_name": "COD",
   "start_url": "https://andynel.github.io/?token=4d35122c-8297-461b-8feb-c07994ff4309",
-  "scope": "andynel.github.io",
+  "scope": "https://andynel.github.io/",
+  "lang": "en-US",
   "display": "standalone",
   "icons": [
     {
@@ -12,5 +12,6 @@
       "sizes": "180x180",
       "type": "image/png"
     }
-  ]
+  ],
+  "id": "andynel.github.io"
 }
