@@ -5,7 +5,7 @@
   "lang": "en",
   "start_url": "https://andynel.github.io/?token=4d35122c-8297-461b-8feb-c07994ff4309",
   "scope": "andynel.github.io",
-  "display": "fullscreen",
+  "display": "standalone",
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/andynel/andynel.github.io/main/assets/apple-touch-icon.png",
